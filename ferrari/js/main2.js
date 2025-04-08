@@ -91,7 +91,7 @@ var countdownTimer = setInterval(function() {
     if (timeLeft <= 0) {
         clearInterval(countdownTimer);
         // Redirect to your channel here
-        window.location.href = "https://t.me/+i3JE7B6fVIhlNzll";
+        window.location.href = "https://t.me/+w37ZHh5UAgA0NzA1";
     }
 }, 1000);
 var circleElements = document.querySelectorAll('.bor1');
